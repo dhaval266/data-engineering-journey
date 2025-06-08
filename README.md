@@ -38,3 +38,23 @@ python dice_roller.py
 
 ```
 
+
+# ✊✋✌️ Rock Paper Scissors Game (Python CLI)
+
+A fun command-line version of the classic **Rock, Paper, Scissors** game written in Python, featuring emoji-based output and input validation.
+
+## 🎮 How to Play
+- Choose:
+  - `r` for Rock
+  - `p` for Paper
+  - `s` for Scissors
+- The computer randomly picks one.
+- Compare and find out who wins!
+
+## 🚀 How to Run
+Make sure Python is installed, then:
+
+```bash
+python rps_game.py
+```
+
