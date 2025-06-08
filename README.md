@@ -58,3 +58,16 @@ Make sure Python is installed, then:
 python rps_game.py
 ```
 
+
+# 📦 QR Code Generator (Python CLI)
+
+A simple command-line QR code generator in Python using the `qrcode` and `Pillow` libraries. You can input any text, URL, or string and save it as a QR image.
+
+## 🚀 How to Use
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+
